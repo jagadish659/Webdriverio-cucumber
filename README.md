@@ -5,7 +5,7 @@ It is easy to setup and configure the framework utilities.
 #Build and Install
 Clone the repository and open the command prompt/terminal in IDE to install
 ```bash
-git clone https://github.com/jagadish659/Jagadish_WebdriverIo-Cucumber.git
+git clone https://github.com/jagadish659/Webdriverio-cucumber.git
 npm install
 ```
 Webdriverio uses Fibers 4.X which requires node 10.X or above to install latest packages.
