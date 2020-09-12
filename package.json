@@ -22,7 +22,7 @@
     "@wdio/sync": "^5.12.3",
     "chai": "^4.2.0",
     "cucumber": "^5.1.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "rimraf": "^2.6.3",
     "webdriverio": "^5.12.5"
   },
